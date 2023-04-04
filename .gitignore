@@ -61,10 +61,10 @@ crashlytics-build.properties
 
 
 # VSCODE .gitignore
-/.vscode/*
+/Clock/.vscode/*
 
 # Local History for Visual Studio Code
-/.history/
+/Clock/.history/
 
 # Built Visual Studio Code Extensions
 *.vsix
